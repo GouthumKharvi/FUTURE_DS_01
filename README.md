@@ -4,7 +4,7 @@ E-commerce Sales Dashboard using Power BI
 
 
 ````markdown
-# 📊 Business Sales Dashboard – Superstore Sales Data (Power BI)
+# 📊 Business Sales Dashboard – Ecommerce Sales Data (Power BI)
 
 ## 📁 Project Overview
 
