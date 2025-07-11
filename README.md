@@ -95,10 +95,10 @@ Avg Delivery Days = AVERAGE(DATEDIFF(Orders[Order Date], Orders[Ship Date], DAY)
 
 ### 📌 Insights Summary:
 
-* 🔝 **Best-Selling Product**: Canon image CLASS 2200 Advanced Copier (₹62K sales)
+* 🔝 **Best-Selling Product**: Canon image CLASS 2200 Advanced Copier (62K sales)
 * 📆 **Peak Sales Period**: November and December (all 4 years show high values)
 * 🏆 **Top Regions**: West (32%) and East (30%) contribute the highest sales
-* 🗂️ **Top Categories**: Technology (₹0.84M) and Furniture (₹0.74M)
+* 🗂️ **Top Categories**: Technology (0.84M) and Furniture (0.74M)
 
 ---
 
